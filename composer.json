@@ -1,5 +1,5 @@
 {
-  "name": "anzui/metamodels_openimmo",
+  "name": "dezio/metamodels_openimmo",
   "description": "Import OpenImmo-Data into an existing MetaModel (for Contao CMS)",
   "keywords": [
     "contao",
